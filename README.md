@@ -6,4 +6,4 @@ Each Neuralink patent is in a corresponding folder, which includes the *original
 
 Note that this Github repo is to be used for educational and reference purposes only, as the PPTs (and Jupyter notebooks) are just my interpretation of the concepts involved in this patent. 
 
-If you have any questions, or want to correct anything from the PPTs (or Jupyter notebooks), please email me at mgz2112@columbia.edu. 
+If you have any questions, or want to correct anything from the PPTs (or Jupyter notebooks), please email me at mgz2112@columbia.edu. If you found this repository useful for you, please don't hesitate to star this repository!
